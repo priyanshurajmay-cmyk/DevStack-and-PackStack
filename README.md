@@ -148,6 +148,9 @@ admin
 
 ---
 
+<img width="1919" height="1033" alt="image" src="https://github.com/user-attachments/assets/bfc073dd-af37-4d4f-974a-66e021551761" />
+
+
 ### **7. Manage DevStack**
 
 Stop DevStack:
