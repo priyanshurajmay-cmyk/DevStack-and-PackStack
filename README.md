@@ -3,6 +3,8 @@
 
 ## Overview
 
+<img width="1902" height="883" alt="image" src="https://github.com/user-attachments/assets/6b36ad46-6e25-44d3-9175-bd3ab808c70c" />
+
 | Feature | **DevStack** | **Packstack** |
 |--------|--------------|--------------|
 | Purpose | Development & testing environment for OpenStack | Simplified deployment method for OpenStack (PoC / lab use) |
